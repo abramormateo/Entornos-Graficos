@@ -15,6 +15,20 @@ Los principios básicos que el W3C recomienda seguir para la creación de docume
 
 En las especificaciones de HTML, un elemento o atributo se considera desaprobado cuando ha sido reemplazado por nuevos elementos. Y un elemento o atributo se vuelve obsoleto cuando no se garantiza que vaya a ser soportado en siguientes versiones.
 
+4. Qué es el DTD y cuáles son los posibles DTDs contemplados en la especificación de HTML 4.01?
+
+El DTD es la declaración del tipo de documento, ubicada en la primera línea del archivo HTML, es decir antes de la marca html.
+Los posibles DTDs contemplados en la especificación de HTML 4.01 son:
+	Declaración transitoria
+	Declaración estricta
+
+5. Qué son los metadatos y cómo se especifican en HTML?
+
+Los metadatos son declaraciones que describen datos, y HTML utiliza el elemento <meta> para especificarlos.
+
+
+
+
 
 
 
