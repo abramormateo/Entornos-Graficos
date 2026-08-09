@@ -9,6 +9,14 @@ Las distintas versiones fueron por orden de desarrollo: HTML, HTML 2.0, HTML 3.2
 
 2. ¿Cuáles son los principios básicos que el W3C recomienda seguir para la creación de documentos con HTML?
 
+Los principios básicos que el W3C recomienda seguir para la creación de documentos con HTML son que las tecnologías deben ser compatibles con versiones anteriores, que las especificaciones y las implementaciones deben coincidir incluso si esto significa cambiar la especificación en lugar de las implementaciones, y que las especificaciones deben ser lo suficientemente detalladas como para que las implementaciones interoperabilidad completa sin ingeniería inversa entre sí.
+
+3. En las Especificaciones de HTML, ¿cuándo un elemento o atributo se considera desaprobado? ¿y obsoleto?
+
+En las especificaciones de HTML, un elemento o atributo se considera desaprobado cuando ha sido reemplazado por nuevos elementos. Y un elemento o atributo se vuelve obsoleto cuando no se garantiza que vaya a ser soportado en siguientes versiones.
+
+
+
 
 
 
