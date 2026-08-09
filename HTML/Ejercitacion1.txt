@@ -1,0 +1,14 @@
+Ejercitación 1 - Responder el siguiente cuestionario
+
+1. Qué es HTML, cuando fue creado, cuáles fueron las distintas versiones y cuál es la última?
+
+Es un lenguaje de marcado para la elaboración de páginas web.
+Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones.
+Fue creado en 1989 pero se popularizó en 1993.
+Las distintas versiones fueron por orden de desarrollo: HTML, HTML 2.0, HTML 3.2, HTML 4.01, XHTML 1.0, HTML5, HTML 5.1, y la última versión lanzada fue HTML 5.2.
+
+2. ¿Cuáles son los principios básicos que el W3C recomienda seguir para la creación de documentos con HTML?
+
+
+
+
