@@ -8,3 +8,12 @@ En cada caso, explicar las diferencias entre los segmentos de código y sus visu
 
 <a href="http://www. google.com.ar" type="text/html" hreflang="es" charset="utf-8" rel="help"> "No va a mostrar nada ya que no tiene un texto y también le falta la etiqueta de cierre </a>"
 
+<a href="#">Click aquí para ir a Google</a> "Muestra el texto clickeable pero no hace nada ya que el href no tiene ningún enlace"
+
+<a href="#arriba">Click aquí para volver arriba</a> "Muestra el hipervínculo correctamente, convirtiendo todo el texto clickeable el cual si lo clickeo me lleva a la sección nombrada #arriba"
+
+<a name="arriba" id="arriba"></a> "No muestra nada pero se puede utilizar como un punto de referencia interna para ser enlazado a través de otro hipervínculo."
+
+
+
+
