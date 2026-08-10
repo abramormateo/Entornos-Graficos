@@ -1,0 +1,10 @@
+Ejercitación 3
+En cada caso, explicar las diferencias entre los segmentos de código y sus visualizaciones:
+
+3.a) 
+<a href="http://www.google.com.ar">Click aquí para ir a Google</a>  "Muestra un texto clickeable el cual me dirige a la pagina de Google en la misma pestaña."
+
+<a href="http://www.google.com.ar" target="_blank">Click aquí para ir a Google</a> "Lo mismo que el anterior solo que a la pagina la abre en una pestaña aparte."
+
+<a href="http://www. google.com.ar" type="text/html" hreflang="es" charset="utf-8" rel="help"> "No va a mostrar nada ya que no tiene un texto y también le falta la etiqueta de cierre </a>"
+
