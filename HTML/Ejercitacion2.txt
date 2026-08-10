@@ -1,0 +1,25 @@
+Ejercitación 2
+Analizar los siguientes segmentos de código indicando en qué sección del documento HTML
+se colocan, cuál es el efecto que producen y señalar cada uno de los elementos, etiquetas, y atributos
+(nombre y valor), aclarando si es obligatorio.
+
+2.a) Es un comentario, se puede colocar en cualquier parte del documento HTML, y se utiliza para realizar aclaraciones a la hora de leer el archivo. No es obligatorio usarlo.
+
+2.b) Los <div> se colocan dentro del body, permite agrupar líneas para aplicarles formato o alineación sin dejar líneas vacías obligatorias como el párrafo, y posee el atributo id que se utiliza para identificarlo con un nombre en específico. El id no es obligatorio usarlo.
+
+2.c)  Los <img> se colocan dentro del body, se utilizan para mostrar imagenes dentro de la página. El atributo src indica la ruta de la imagen por lo que es obligatorio su uso; el atributo alt sirve para agregar una descripción breve sobre la imagen, y que de acuerdo con las buenas prácticas, es obligatorio su uso; el id no es obligatorio; name se utiliza para, generalmente, agrupar elementos de un formulario y para ser referenciado en JavaScript, y no es obligatorio su uso; width y height se utiliza para determinar el ancho y la altura respectivamente con la que se va a mostrar la imagen en la página, no es obligatorio su uso; y el atributo longdesc permite especificar una URL o a un archivo HTML donde está contenido una descripción más larga de la imagen, no es obligatorio su uso. 
+
+2.d) Los <meta> se colocan dentro del head, se utilizan para definir los metadatos de un documento HTML. El atributo name no es obligatorio usarlo; el atributo lang indica el lenguaje de la página y no es obligatorio usarlo; el atributo content especifica el valor asociado con el atributo name o http-equiv y su uso obligatorio en el caso de usar name o http-equiv; y el atributo http-equiv provee información sobre los encabezado de respuesta HTTP, y su uso no es obligatorio. 
+
+2.e) Los <a> se colocan dentro del body, se utilizan para definir un hipervínculo. El atributo href provee la dirección del hipervínculo y su uso es obligatorio; el atributo type indica el tipo de medio al que se vinculo y no es obligatorio su uso; el atributo hreflang indica el lenguaje del archivo que se vinculó y su uso no es obligatorio; el atributo charset determina el conjunto de caracteres que se utilizará en el hipervínculo y su uso no es obligatorio; y el atributo rel indica la relación entre la página actual y el hipervínculo, su uso no es obligatorio.
+
+2.f) Los <table> se colocan dentro del body, se utilizan para ordenar datos en columnas y filas, o sea tablas. El atributo width indica el ancho y su uso no es obligatorio, y el atributo summary otorga un breve repaso de cómo están organizados los datos en la tabla o cómo navegar la misma, y de acuerdo con las buenas prácticas, es obligatorio su uso.
+
+Los <caption> se colocan dentro de table, se utilizan para agregar un título a la tabla. El atributo align permite determinar dónde se mostrará el caption y su uso no es obligatorio.
+
+Los <tr> se colocan dentro de table, se utilizan para determinar la cantidad de filas de una tabla.
+
+Los <th> se colocan dentro de tr o de td, se utilizan para determinar el encabezado de la fila o columna que se especifique. El atributo scope permite identificar si es el encabezado de una columna, una fila o un grupo de ambas, y su uso no es obligatorio.
+
+Los <td> se colocan dentro de tr, se utilizan para determinar las celdas dentro de la fila de una tabla.
+
