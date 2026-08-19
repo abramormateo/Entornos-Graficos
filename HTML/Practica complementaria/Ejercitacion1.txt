@@ -1,0 +1,21 @@
+Ejercitación 1 - Responder el siguiente cuestionario
+
+1. ¿Ventajas de HTML5?
+Una de sus grandes ventajas es que se puede añadir audio y video sin necesidad de usar Flash u otro reproductor multimedia mediante las etiquetas <video> y <audio> respectivamente.
+También, pueden subirse videos a páginas de terceros como Vimeo o Youtube e incrustarlos en el nuevo sitio web, esta es una de las opciones más viables pues a
+pesar de colocar elementos multimedia, el peso final del archivo no se ve afectado.
+La geolocalización permite al sitio detectar la ubicación de cada usuario que ingresa al sitio web. Esto puede tener diversos usos, por ejemplo, para ofrecer
+opción de idiomas según el lugar de ubicación del usuario o para enlazarlo a la página oficial de la marca en el país en el que se encuentra.
+Con HTML5 se pueden crear animaciones en 2D gracias a la etiqueta <canvas>. 
+Pero la mayor ventaja es que desarrollar aplicaciones HTML5 es que el resultado final es completamente accesible, es decir, se puede acceder a esta aplicación desde un ordenador, tablet o móvil. Incluso al cambiar de dispositivo, se puede acceder a la aplicación web mediante la URL respectiva, cosa que no sucede con una aplicación móvil.
+
+2. ¿Por qué utilizarlo?
+Justamente por lo dicho anteriormente, con html5 podemos crear un sitio web responsive o que se adapta dependiendo del dispositivo con el cual estemos accediendo al sitio.
+
+3. Nombre ventajas
+
+*Es gratuito
+*Código más ordenado
+*Compatibilidad en navegadores
+*Almacenamiento mejorado
+*Diseño adaptativo
