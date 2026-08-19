@@ -1,0 +1,6 @@
+3.A) ¿Qué formatos soporta ?
+
+HTML5 soporta los siguientes formatos principales:
+*MP4
+*WebM
+*OGG
