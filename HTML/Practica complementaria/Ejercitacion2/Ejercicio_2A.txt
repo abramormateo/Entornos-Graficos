@@ -1,0 +1,6 @@
+2.A) ¿Qué formatos soporta?
+
+HTML5 soporta los siguientes formatos principales:
+*MP3
+*WAV
+*OGG
