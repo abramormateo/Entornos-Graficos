@@ -1,0 +1,29 @@
+1. ¿ Qué es CSS y para qué se usa?
+
+CSS son las siglas de hojas de estilo en cascada.
+Las hojas de estilo es una tecnología que nos permite controlar la apariencia de una página web.
+Se usa justamente para eso, para darle la apariencia que queremos a nuestro sitio web, estilos como el tamaño, fuentes, color, espaciado entre textos y recuadros así como el lugar donde disponer texto e imágenes en la página.
+
+2. CSS utiliza reglas para las declaraciones de estilo, ¿cómo funcionan?
+
+Funcionan mediante un selector y un conjunto de declaraciones. Tiene la siguiente forma:
+selector{
+    propiedad: valor;
+}
+
+por ejemplo: 
+p {
+    color: blue;
+    font-size: 20px;
+}
+
+3. ¿ Cuáles son las tres formas de dar estilo a un documento?
+
+*Directamente a la marca
+*En el head de la página
+*Agrupar las reglas de estilo en un archivo independiente con extensión .css
+
+4. ¿ Cuáles son los distintos tipos de selectores más utilizados?
+Ejemplifique cada uno.
+
+
