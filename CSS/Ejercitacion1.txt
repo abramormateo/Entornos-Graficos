@@ -77,6 +77,23 @@ Ejemplifique cada uno.
     /* El siguiente selector de ID equivale al elemento H1 cuyo atributo ID tiene el valor "capitulo1" */
     H1#capitulo1 { text-align: center }
 
+5. ¿ Qué es una pseudo-clase? Cuáles son las más utilizadas aplicadas a vínculos?
+
+Las pseudo-clases clasifican a los elementos basado en características más allá de su nombre, atributos o contenido; en principio, atributos que no pueden deducirse de la estructura del documento.
+Una pseudo-clase es una palabra clave que se agrega a un selector CSS para indicar un estado particular de un elemento. Se escribe utilizando dos puntos :
+
+Las pseudo-clases mas utilizadas aplicadas a vínculos son:
+    *La pseudo-clase :link se aplica a los vínculos que aún no han sido visitados.
+    *La pseudo-clase :visited se aplica una vez que el vínculo ha sido visitado por el usuario.
+
+6. ¿ Qué es la herencia?
+
+Algunos valores son heredados por los hijos de un elemento en la estructura del documento. Cada propiedad define si se hereda o no.
+Basicamente, otras palabras quiere decir que algunos estilos aplicados a un elemento se transmiten automáticamente a sus elementos hijos.
+
+7. ¿ En qué consiste el proceso denominado cascada?
+
+La cascada de CSS, asigna una fuerza a cada regla de estilo. Cuando varias reglas se aplican, la de mayor fuerza toma preponderancia.
 
 
 
