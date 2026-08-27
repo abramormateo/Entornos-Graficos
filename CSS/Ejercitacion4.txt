@@ -1,0 +1,10 @@
+Analizar los siguientes códigos y comparar sus efectos. Explicar:
+
+En el codigo de la izquierda:
+
+- Se define la clase "contenido" unicamente para el elemento p. Por lo tanto, si luego en mi hoja de estilo defino alguna propiedad para esa clase, solo afectara al parrafo.
+- El elemento p tiene un estilo de linea, por lo que si despues en mi hoja de estilo defino alguna propiedad para la clase "contenido", el estilo de linea tiene mayor prioridad que el de clase, por lo que el elemento va a verse como se indique en el estilo de linea y no en el de clase(es decir, se verá con font-weight: normal).
+
+En el codigo de la derecha:
+
+- Se define la clase "contenido" para todo el elemento body, por lo que si luego en mi hoja de estilo defino algunas propiedades para la clase "contenido" se vera afectado todo el body, incluyendo los elementos que se encuentren dentro de él.
