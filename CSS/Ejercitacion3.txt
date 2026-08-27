@@ -1,0 +1,12 @@
+La primer regla p.quitar selecciona todos los elementos p en donde class="quitar". Las declaraciones que hace son:
+
+color: red; (define que el color del texto sea color rojo).
+
+La segunda regla *.desarrollo selecciona a todos los elementos(cualquiera sea) del HTML en donde class="desarrollo". Las declaraciones que hace son:
+
+font-size: 8px; (define que el tamaño de la fuente sea de 8 pixeles).
+
+La tercer regla .importante selecciona cualquier elemento en donde class="importante". Las declaraciones que hace son:
+
+font-size: 20px; (definde que el tamaño de la fuente sea de 20 pixeles).
+
