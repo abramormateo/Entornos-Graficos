@@ -1,0 +1,16 @@
+La primer regla p#normal selecciona a todos los elementos p cuyo id="normal". Las declaraciones que hace son:
+
+font-family: arial,helvetica; (define el tipo de letra, en primer lugar utiliza arial y en caso de no estar disponible usa helvetica).
+font-size: 11px; (define el tamaño de la letra en 11 pixeles).
+font-weight: bold; (define que la letra se muestre en negrita).
+
+La segunda regla *#destacado selecciona a todos los elementos(cualquiera sea) del HTML cuyo id="destacado". Las declaraciones son:
+
+border-style: solid; (define un borde con estilo solido).
+border-color: blue; (define que el borde sea de color azul).
+border-width: 2px; (define que el borde tenga un ancho de 2 pixeles).
+
+La tercer regla #distinto selecciona cualquier elemento cuyo id="distinto". Las declaraciones que hace son:
+
+background-color: #9EC7EB; (define que el color de fondo del elemento sea un celeste).
+color: red; (define que el color del texto sea de color rojo).
