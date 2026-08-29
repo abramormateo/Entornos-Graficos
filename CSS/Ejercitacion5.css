@@ -1,0 +1,49 @@
+/* ejercicio 1 */
+
+h1 em, h2 em, h3 em, h4 em, h5 em, h6 em {
+    color: red;
+}
+
+/* ejercicio 2 */
+
+div p [href] {
+    color: black;
+}
+
+/* ejercicio 3 */
+
+div#ultimo ul {
+    color: yellow;
+}
+
+div#ultimo ul a {
+    color: blue;
+}
+
+/* ejercicio 4 */
+
+div .importante {           /*notar que se usa .importante (a pesar que el ejercicio diga "identificado como importante", lo cual me haria pensar en usar "#" en vez de ".") porque puede haber VARIOS elementos "importantes" */
+    color: green;         /*  se usa #ultimo para el id, porque es UN SOLO bloque específico */ 
+}
+
+h1 .importante, h2 .importante, h3 .importante, h4 .importante, h5 .importante, h6 .importante {
+    color: red;
+}
+
+/* ejercicio 5 */
+
+h1[title] {
+    color: blue;
+}
+
+/* ejercicio 6 */
+
+ol a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+ol a:visited {
+    color: violet;
+    text-decoration: none;
+}
